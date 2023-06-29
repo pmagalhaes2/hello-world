@@ -1,1 +1,1 @@
-Repositório com pimeiro exercício do curso da Cubos Academy focado em desenvolvimento Back-end.
+Repositório com primeiro exercício do curso da Cubos Academy focado em desenvolvimento Back-end.
