@@ -1,0 +1,1 @@
+Repositório com pimeiro exercício do curso da Cubos Academy focado em desenvolvimento Back-end.
